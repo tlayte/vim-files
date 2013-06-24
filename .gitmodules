@@ -22,3 +22,6 @@
 [submodule "vim-nerdtree-tabs"]
 	path = vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "mustache"]
+	path = mustache
+	url = https://github.com/juvenn/mustache.vim.git
