@@ -25,3 +25,6 @@
 [submodule "mustache"]
 	path = mustache
 	url = https://github.com/juvenn/mustache.vim.git
+[submodule "tern"]
+	path = tern
+	url = https://github.com/marijnh/tern_for_vim.git
