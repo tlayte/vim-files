@@ -34,3 +34,6 @@
 [submodule "html5.vim"]
 	path = html5.vim
 	url = https://github.com/othree/html5.vim.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/zaiste/tmux.vim.git
