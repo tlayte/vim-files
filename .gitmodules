@@ -37,3 +37,12 @@
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/zaiste/tmux.vim.git
+[submodule "vim-indent-guides"]
+	path = vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/KohPoll/vim-less.git
+[submodule "gundo.vim"]
+	path = gundo.vim
+	url = http://github.com/sjl/gundo.vim.git
