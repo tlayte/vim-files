@@ -67,3 +67,6 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/bling/vim-airline.git
+[submodule "tmuxline.vim"]
+	path = tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim.git
