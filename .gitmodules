@@ -55,9 +55,6 @@
 [submodule "vim-addon-mw-utils"]
 	path = vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
-[submodule "vim-snipmate"]
-	path = vim-snipmate
-	url = https://github.com/garbas/vim-snipmate.git
 [submodule "vim-snippets"]
 	path = vim-snippets
 	url = https://github.com/honza/vim-snippets.git
@@ -76,3 +73,15 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "vim-latex-vim-latex"]
+	path = vim-latex-vim-latex
+	url = git://git.code.sf.net/p/vim-latex/vim-latex
+[submodule "YCM-Generator"]
+	path = YCM-Generator
+	url = https://github.com/rdnetto/YCM-Generator.git
+[submodule "vim-lua"]
+	path = vim-lua
+	url = https://github.com/tbastos/vim-lua.git
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips.git
